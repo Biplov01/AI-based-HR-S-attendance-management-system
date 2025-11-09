@@ -139,7 +139,7 @@ Add real-time dashboard analytics 📈
 
 🧾 License
 This project is released under the MIT License.
-Feel free to use, modify, and distribute it! 🤝
+resrtricted to free use, modify, and distribution! 🤝
 
 👨‍💻 Author
 Biplov Paneru
