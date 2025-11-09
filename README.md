@@ -126,7 +126,7 @@ Category	Technology
 📊 Example Attendance Output
 Date	Name	Roll	Time
 09-11-25	Biplov	001	09:12:35
-09-11-25	Ramila	002	09:14:02
+09-11-25	abcde	002	09:14:02
 
 💡 Future Enhancements
 Add face re-training scheduler 📅
